@@ -1,0 +1,12 @@
+# Ignore Visual Studio temporary files and build results
+*.VC.opendb
+.vs/
+build/
+*.suo
+*.user
+*.bak
+*.tmp
+*.swp
+*.db
+*.sdf
+*.opensdf

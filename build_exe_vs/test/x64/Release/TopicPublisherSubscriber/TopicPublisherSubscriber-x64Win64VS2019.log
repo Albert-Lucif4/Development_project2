@@ -1,0 +1,33 @@
+﻿  TopicPubSubTypes.cxx
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\core\policy\QosPolicies.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\core\policy\QosPolicies.hpp(859,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\core\policy\QosPolicies.hpp(1730,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  TopicPublisher.cxx
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\domain\DomainParticipant.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\core\policy\QosPolicies.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\core\policy\QosPolicies.hpp(859,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\core\policy\QosPolicies.hpp(1730,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\86150\Desktop\build_exe_vs\test\Topic.h(75,1): error C2011: “Topic”:“struct”类型重定义
+C:\Users\86150\Desktop\build_exe_vs\test\TopicPublisher.cxx(23,8): message : 参见“Topic”的声明
+C:\Users\86150\Desktop\build_exe_vs\test\TopicPublisher.cxx(147,11): error C2512: “eprosima::fastdds::dds::Topic”: 没有合适的默认构造函数可用
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\publisher\Publisher.hpp(55,7): message : 参见“eprosima::fastdds::dds::Topic”的声明
+  TopicSubscriber.cxx
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\core\policy\QosPolicies.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\core\policy\QosPolicies.hpp(859,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\core\policy\QosPolicies.hpp(1730,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\subscriber\DataReader.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\subscriber\SampleInfo.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\subscriber\DataReader.hpp(478,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\domain\DomainParticipant.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\86150\Desktop\build_exe_vs\test\TopicSubscriber.cxx(127,5): error C2872: “Topic”: 不明确的符号
+C:\Users\86150\Desktop\build_exe_vs\test\Topic.h(74,7): message : 可能是“Topic”
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\topic\TopicListener.hpp(29,7): message : 或    “eprosima::fastdds::dds::Topic”
+  TopicPubSubMain.cxx
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\domain\DomainParticipant.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\core\policy\QosPolicies.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\core\policy\QosPolicies.hpp(859,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\core\policy\QosPolicies.hpp(1730,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\subscriber\DataReader.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\subscriber\SampleInfo.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\eProsima\fastrtps 2.12.0\include\fastdds\dds\subscriber\DataReader.hpp(478,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...

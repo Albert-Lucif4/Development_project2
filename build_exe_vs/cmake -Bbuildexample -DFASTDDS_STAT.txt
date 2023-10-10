@@ -1,0 +1,1 @@
+cmake -Bbuildexample -DFASTDDS_STATIC=ON ..

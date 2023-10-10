@@ -1,0 +1,2 @@
+﻿  Topic.cxx
+LINK : fatal error LNK1104: 无法打开文件“libfastcdrd-2.0.lib”
